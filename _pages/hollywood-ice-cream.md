@@ -6,6 +6,6 @@ post_date: 2017-01-24 22:01:01
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.ryhad-localhost.com/wordpress/hollywood-ice-cream/
+  http://www.ryhad-localhost.com/wordpress/boutique/hollywood-ice-cream/
 published: true
 ---
