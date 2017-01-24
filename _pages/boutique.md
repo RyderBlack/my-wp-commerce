@@ -9,3 +9,4 @@ permalink: >
   http://www.ryhad-localhost.com/wordpress/
 published: true
 ---
+<img class="alignnone size-full wp-image-34" src="http://www.ryhad-localhost.com/wordpress/wp-content/uploads/2017/01/726.jpg" alt="" width="1500" height="611" />
